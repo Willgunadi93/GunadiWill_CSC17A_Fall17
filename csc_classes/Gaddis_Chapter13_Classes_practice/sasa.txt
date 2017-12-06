@@ -1,0 +1,20 @@
+The data of the student: 
+student name: Andrew
+Student age: 21
+Student Weight(lbs): 200
+Student Birthdate: December 1st, 1995
+The data of the student: 
+Student name: Will Gunadi
+Student age: 24
+Student Weight(lbs): 170
+Student Birthdate: August 15, 1993
+The data of the student: 
+Student name: Debbie Sumantri
+Student age: 23
+Student Weight(lbs): 130
+Student Birthdate: May 1st, 1994
+The data of the student: 
+Student name: Will
+Student age: 24
+Student Weight(lbs): 180
+Student Birthdate: August 15, 1993
